@@ -1,7 +1,7 @@
 # BhashaBridge — Speak Local. Connect Better.
 
 
-[🌐 Live Demo](https://bhashabridge-roan.vercel.app/) | [GitHub Repository](https://github.com/Akshita-seth/BhashaBridge)
+[🌐 Live Demo](https://bhashabridge-roan.vercel.app/) | 
 
 
 
