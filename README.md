@@ -1,5 +1,10 @@
 # BhashaBridge — Speak Local. Connect Better.
 
+
+[🌐 Live Demo](https://bhashabridge-roan.vercel.app/) | [GitHub Repository](https://github.com/Akshita-seth/BhashaBridge)
+
+
+
 BhashaBridge is a situation-based Indian language learning application designed to help people communicate more confidently in everyday situations.
 
 Instead of focusing only on vocabulary memorisation, it helps users explore useful expressions, understand their meanings, practise responses and listen to pronunciation.
